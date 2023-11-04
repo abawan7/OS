@@ -43,5 +43,5 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 
-/* gcc -o Q1 Q1.c -lpthread
+/* gcc -o Q1 Q1.c
 ./Q1 5 */
